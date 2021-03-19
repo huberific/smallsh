@@ -1,9 +1,9 @@
 /*******************************************************************************
-* Author:   Aaron Huber
-* Due Date: 02-08-2021
-* Desc:     This is the speicification file for the small shell program. It
-*           contains the function prototypes for the functions used for the
-*           shell.
+* Author: Aaron Huber
+* Date:   02-08-2021
+* Desc:   This is the speicification file for the small shell program. It
+*         contains the function prototypes for the functions used for the
+*         shell.
 *******************************************************************************/
 #include <fcntl.h>
 #include <limits.h>
