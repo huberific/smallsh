@@ -1,8 +1,8 @@
 /*******************************************************************************
-* Author:   Aaron Huber
-* Due Date: 02-08-2021
-* Desc:     This is the implementation file for the small shell program. It
-*           contains the primary functions for running the shell.
+* Author: Aaron Huber
+* Due:    02-08-2021
+* Desc:   This is the implementation file for the small shell program. It
+*         contains the primary functions for running the shell.
 *******************************************************************************/
 #include "smallShell.h"
 
